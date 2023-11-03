@@ -1,0 +1,1 @@
+print("pozdrav iz apliacije od Mihaela 123123")
